@@ -3,4 +3,4 @@ spring:
     name: eureka-microservice
   cloud:
     config:
-      uri: https://config-microservice-production-9ea3.up.railway.app
+      uri: https://config-microservice-production-0212.up.railway.app

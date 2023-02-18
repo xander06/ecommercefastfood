@@ -11,3 +11,6 @@ eureka-microservice/mvnw
 eureka-microservice/mvnw.cmd
 eureka-microservice/.mvn/wrapper/maven-wrapper.jar
 eureka-microservice/.mvn/wrapper/maven-wrapper.properties
+config-data/.idea/
+eureka-microservice/.idea/
+eureka-microservice/target/
