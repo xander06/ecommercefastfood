@@ -2,8 +2,8 @@ spring:
   application:
     name: gateway-microservice
   cloud:
-    config:
-      uri: https://config-microservice-production-0212.up.railway.app
+#    config:
+#      uri: https://config-microservice-production-0212.up.railway.app
     gateway:
       default-filters:
         - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_UNIQUE
