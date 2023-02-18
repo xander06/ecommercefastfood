@@ -7,7 +7,7 @@ spring:
       server:
         git:
           default-label: main
-          uri: https://github.com/DylanVallejo/kruger-full-stack-backend
+          uri: https://github.com/Edwin9226/ecommercefastfood.git
           searchPaths: config-data
         bootstrap: true
 
