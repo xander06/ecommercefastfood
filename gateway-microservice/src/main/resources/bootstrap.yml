@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: gateway-microservice
+  cloud:
+    config:
+      uri: https://config-microservice-production-9ea3.up.railway.app
+    gateway:
+      default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_UNIQUE
+      global cors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedHeaders: "*"
+            allowedMethods: "*"
