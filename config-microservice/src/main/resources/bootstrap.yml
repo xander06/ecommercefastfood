@@ -7,7 +7,7 @@ spring:
       server:
         git:
           default-label: main
-          uri: https://github.com/Edwin9226/ecommercefastfood.git
+          uri: https://github.com/Edwin9226/ecommercefastfood
           searchPaths: config-data
         bootstrap: true
 
