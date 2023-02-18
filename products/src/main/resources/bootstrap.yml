@@ -1,10 +1,10 @@
-spring:
-  application:
-    name: products
-  cloud:
-    config:
-      enabled: true
-      uri: https://config-microservice-production-0212.up.railway.app
+#spring:
+# application:
+#    name: products
+#  cloud:
+#    config:
+#      enabled: true
+#      uri: https://config-microservice-production-0212.up.railway.app
 #web:
 #  cors:
 #    allowed-origins: "http://localhost:8082"
