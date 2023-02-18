@@ -1,7 +1,7 @@
-spring:
-  application:
-    name: eureka-microservice
-  cloud:
-    config:
-      profile: dev
-      uri: https://config-microservice-production-0212.up.railway.app
+#spring:
+#  application:
+#    name: eureka-microservice
+#  cloud:
+#    config:
+#      profile: dev
+#      uri: https://config-microservice-production-0212.up.railway.app
