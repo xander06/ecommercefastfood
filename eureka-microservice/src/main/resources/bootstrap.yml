@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eureka-microservice
+  cloud:
+    config:
+      uri: http://config-microservice-production-9ea3.up.railway.app:8080

@@ -7,3 +7,7 @@ config-microservice/.mvn/wrapper/maven-wrapper.jar
 config-microservice/.mvn/wrapper/maven-wrapper.properties
 config-microservice/mvnw
 config-microservice/mvnw.cmd
+eureka-microservice/mvnw
+eureka-microservice/mvnw.cmd
+eureka-microservice/.mvn/wrapper/maven-wrapper.jar
+eureka-microservice/.mvn/wrapper/maven-wrapper.properties
